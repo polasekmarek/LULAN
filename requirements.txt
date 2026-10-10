@@ -1,0 +1,13 @@
+# GUI a databaze
+PyQt6>=6.6
+
+# vypocty a data
+pandas>=2.0
+numpy>=1.24
+python-dateutil>=2.8
+
+# abioticke parametry (abiotic_params.py)
+pyproj>=3.6          # prepocet souradnic WGS84 -> S-42 / S-JTSK / UTM
+requests>=2.31       # dotazy na sluzbu CUZK DMR 4G
+geopandas>=1.0       # prostorove joiny (Strahler, umori, povodi)
+shapely>=2.0

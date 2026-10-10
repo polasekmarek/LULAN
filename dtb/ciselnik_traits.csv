@@ -1,0 +1,169 @@
+CON_ID;ID;CS
+MB;NE_V_CR;nepóvodnost druhu v ‰R
+MB;ZCHDR;zvl‡ätž chr‡nžnù druh
+MB;RED_LIST;‹ervenù seznam
+MB;NATURA2000;Natura 2000
+MB;SZX;xenosaprobita
+MB;SZO;oligosaprobita
+MB;SZB;beta-mezosaprobita
+MB;SZA;alfa-mezosaprobita
+MB;SZP;polysaprobita
+MB;SZS;saprobn’ hodnota taxonu
+MB;SZG;indika‹n’ v‡ha taxonu
+MB;HPE;habitatovŽ preference - pel‡l (bahno)
+MB;HAR;habitatovŽ preference - argyl‡l (j’l)
+MB;HPS;habitatovŽ preference - psam‡l (p’sek)
+MB;HAK;habitatovŽ preference - ak‡l (ätžrk)
+MB;HLI;habitatovŽ preference - lit‡l (kameny)
+MB;HPH;habitatovŽ preference - fyt‡l (rostliny)
+MB;HPO;habitatovŽ preference - POM
+MB;HOT;habitatovŽ preference - jinù
+MB;ZEU;preference zonace toku - eukren‡l
+MB;ZHY;preference zonace toku - hypokren‡l
+MB;ZER;preference zonace toku - epiritr‡l
+MB;ZMR;preference zonace toku - metaritr‡l
+MB;ZHR;preference zonace toku - hyporitr‡l
+MB;ZEP;preference zonace toku - epipotam‡l
+MB;ZMP;preference zonace toku - metapotam‡l
+MB;ZHP;preference zonace toku - hypopotam‡l
+MB;ZLI;preference zonace toku - litor‡l
+MB;ZPR;preference zonace toku - profund‡l
+MB;FGR;potravn’ preference - sp‡sa‹i a seäkrab‡va‹i
+MB;FMI;potravn’ preference - minuj’c’ druhy
+MB;FXY;potravn’ preference - druhy ìiv’c’ se dÞevem
+MB;FSH;potravn’ preference - drti‹i - kouskova‹i
+MB;FGA;potravn’ preference - sbžra‹i
+MB;FAF;potravn’ preference - aktivn’ filtr‡toÞi
+MB;FPF;potravn’ preference - pasivn’ filtr‡toÞi
+MB;FPR;potravn’ preference - dravci
+MB;FPA;potravn’ preference - parazitŽ
+MB;FOT;druhy ìiv’c’ se jinùm zpósobem
+MB;LSS;druhy plovouc’/klouzaj’c’ se po hladinž
+MB;LSD;druhy plovouc’/pot‡pžj’c’ se
+MB;LBB;druhy hrabaj’c’/vrtaj’c’
+MB;LSW;druhy lezouc’/kr‡‹ej’c’
+MB;LSE;druhy pÞirostlŽ ‹i sedent‡rn’ 
+MB;LOT;druhy pohybuj’c’ se jinùm zpósobem
+MB;LIB;limnobiont
+MB;LIP;limnofil
+MB;LRP;limno- aì reofil
+MB;RLP;reo- aì limnofil
+MB;RHP;reofil
+MB;RHB;reobiont
+MB;IND;indiferentn’ ve vztahu k proudžn’
+MB;temp_range_COS;teplotn’ rozsah - oligostenotermn’
+MB;temp_range_WAS;teplotn’ rozsah - polystenotermn’
+MB;temp_range_EUT;teplotn’ rozsah - eurytermn’
+MB;temp_pref_VCO;teplotn’ preference - vùraznž chladnomilnù
+MB;temp_pref_COD;teplotn’ preference - chladnomilnù
+MB;temp_pref_MOD;teplotn’ preference - preferuj’c’ stÞedn’ teploty
+MB;temp_pref_WAR;teplotn’ preference - teplomilnù
+MB;temp_pref_EUT;teplotn’ preference - eurytermn’
+MB;TEG;dùch‡n’ - povrch tžla
+MB;GIL;dùch‡n’ - ì‡bra
+MB;PLS;dùch‡n’ - plastron
+MB;SPI;dùch‡n’ - stigmata
+MB;VES;dùch‡n’ - hydrostatickù v‡‹ek
+MB;TAP;dùch‡n’ vzduchu z rostlinnùch pletiv
+MB;SUR;dùch‡n’ z hladiny
+MB;MM;velikost tžla
+MB;FLEXIBLE;promžnlivù ìivotn’ cyklus
+MB;NOT_STRICT_FIXED;‹‡ste‹nž promžnlivù ìivotn’ cyklus
+MB;STRICT_FIXED;striktnž v‡zanù ìivotn’ cyklus
+MB;NOD;bez rezistentn’ch stadi’
+MB;EGD;diapauza vaj’‹ek
+MB;LAD;diapauza larev
+MB;ADDX;diapauza dospžlcó
+MB;UNK;nen’ zn‡mo rezistentn’ st‡dium
+MB;OTHER;jinŽ
+MB;AQP;pohyb pasivnž vodou
+MB;AQA;pohyb aktivnž vodou
+MB;AEP;pohyb pasivnž vzduchem
+MB;AEA;pohyb aktivnž vzduchem
+MB;LT10M;velmi omezen‡ disperze (<10 m)
+MB;C10_100M;n’zk‡ disperze (10-100 m)
+MB;C100_1000;stÞedn’ disperze (100-1000 m)
+MB;A_GT1000M;vysok‡ disperze (>1000 m)
+MB;PSI_A;vysoce citlivù k siltaci
+MB;PSI_B;stÞednž citlivù k siltaci
+MB;PSI_C;m‡lo citlivù k siltaci
+MB;PSI_D;vysoce tolerantn’ k siltaci
+MB;IND_PERN_JARO;indik‡tor permanentn’ho prótoku - jaro
+MB;IND_PERM_PODZ;indik‡tor permanentn’ho prótoku - podzim
+MB;IND_SUCHO_JARO;indik‡tor vysych‡n’ toku - jaro
+MB;IND_SUCHO_POD;indik‡tor vysych‡n’ toku - podzim
+MB;LT300;n’ìinnŽ toky
+MB;C301_500;pahorkatinnŽ toky
+MB;C501_800;podhorskŽ toky
+MB;GT800;horskŽ toky
+MB;INDEX_VHODNOSTI;index vhodnosti indikace nadm. vùäky
+MB;C1_2;struìky a malŽ potoky
+MB;C3_4;vžtä’ potoky a Þ’‹ky
+MB;C5_6;Þeky
+MB;C7_8;velkŽ Þeky
+MB;INDEX_VHODNOSTI2;index vhodnosti indikace velikosti toku
+MB;LT20;kategorie pod’lu zemždžlskŽ pódy v povod’
+MB;C21_40;kategorie pod’lu zemždžlskŽ pódy v povod’
+MB;C41_60;kategorie pod’lu zemždžlskŽ pódy v povod’
+MB;C61_80;kategorie pod’lu zemždžlskŽ pódy v povod’
+MB;C81_100;kategorie pod’lu zemždžlskŽ pódy v povod’
+MB;IND_INDEX_LU;individu‡ln’ index LU
+MB;INDEX_VHODNOSTI3;index vhodnosti indikace pod’lu zem. pódy v povod’
+MB;TAXONY_MEPT_VLT;typickŽ taxony velkùch Þek v povod’ Labe
+MB;TAXONY_MEPT_MO;typickŽ taxony velkùch Þek v povod’ Moravy
+MB;SPEAR_ORG;index SPEAR org
+MB;SPEAR_PEST;index SPEAR pest
+MB;CCS;CCS index
+FB;MSZX;stupeË saprobity: xenosaprobita
+FB;MSZO;stupeË saprobity: oligosaprobita
+FB;MSZB;stupeË saprobity: beta-mezosaprobita
+FB;MSZA;stupeË saprobity: alfa-mezosaprobita
+FB;MSZP;stupeË saprobity: polysaprobita
+FB;MSZM;stupeË saprobity: metasaprobita
+FB;MSZS;saprobn’ hodnota taxonu
+FB;MSZG;indika‹n’ v‡ha taxonu
+FB;MSZC;saprobn’ stupeË (medi‡n saprobn’ valence)
+FB;M_HAL_VAHA;halobita index
+FB;M_HAL_IDX;halobita v‡ha
+FB;AER;aerofilie (1 = vodn’ aì 7 = terestrick‡)
+FB;SAL;salinita (1 = sladkovodn’ aì 7 = moÞsk‡)
+FB;O2;n‡roky na kysl’k (1 = vysokŽ aì 7 = n’zkŽ)
+MF;MZIV;Ellenbergovy indika‹n’ hodnoty pro ìiviny (1 = bohat‡ aì 10 = chud‡  stanoviätž)
+MF;MTEP;Ellenbergovy indika‹n’ hodnoty pro teplotu (1 = tepl‡ aì 10 = chladn‡ stanoviätž)
+MF;MREA;Ellenbergovy indika‹n’ hodnoty pro pH (1 = kysel‡ aì 10 = z‡sadit‡ stanoviätž)
+MF;MMTR;Mean Trophic Rank
+MF;MVAH;v‡ha
+MF;MTV;Mean Trophic Value (Ko‹’ et al. 2011)
+MF;MF_SENS_ZTT;Druhy velmi citlivŽ k z‡kalu + zvùäenŽ trofii (+ teplotž)
+MF;MF_SENS_ZT;Druhy velmi citlivŽ k z‡kalu + zvùäenŽ trofii
+MF;MF_IND_Z;Druhy indikuj’c’ zvùäenŽ ìiviny (jejich pÞibùv‡n’ indikuje zhoräen’ stavu)
+MF;MF_TOL_PEL;Druhy sn‡äej’c’ hlubä’ vrstvu organickŽho bahna
+MF;MF_PREF_AK;Druhy prov‡zej’c’ pÞednostnž p’s‹itù aì kamenitù substr‡t na dnž
+RYBY;R;druh proudomilnù (rheofiln’)
+RYBY;EL;druh eurytopn’ / limnefiln’
+RYBY;I;druh invazn’
+RYBY;A;indikuj’c’ druh pro skupinu A
+RYBY;B;indikuj’c’ druh pro skupinu B
+RYBY;C;indikuj’c’ druh pro skupinu C
+RYBY;D;indikuj’c’ druh pro skupinu D
+RYBY;E;indikuj’c’ druh pro skupinu E
+RYBY;F;indikuj’c’ druh pro skupinu F
+RYBY;G;indikuj’c’ druh pro skupinu G
+MZB;repr_ase;reprodukce - asexu‡ln’
+MZB;repr_cie;reprodukce - cemented isolated eggs
+MZB;repr_vec;reprodukce - clutches in vegetation
+MZB;repr_fic;reprodukce - fixed clutches
+MZB;repr_frc;reprodukce - free clutches
+MZB;repr_fie;reprodukce - free isolated eggs
+MZB;repr_ovo;reprodukce - ovovivipar
+MZB;repr_pas; reprodukce - parazitick‡
+MZB;repr_tec;reprodukce - terrestrial clutches
+MZB;repr_cycle_sev;druh semivoltinn’
+MZB;repr_cycle_unv;druh univoltinn’
+MZB;repr_cycle_biv;druh bivoltinn’
+MZB;repr_cycle_trv;druh trivoltinn’
+MZB;repr_cycle_muv;druh mutivoltinn’
+MZB;repr_cycle_flx;druh s flexibiln’m po‹tem ìivotn’ch cykló
+MZB;bodyflex_none;ì‡dn‡ ohebnost tžla
+MZB;bodyflex_low;n’zk‡ ohebnost tžla
+MZB;bodyflex_high;vysok‡ ohebnost tžla

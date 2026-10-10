@@ -1,0 +1,42 @@
+# Popis verze vlozeny do LULAN.exe.
+#
+# Windows tyhle udaje ukazuji ve vlastnostech souboru a berou je v uvahu
+# i pri posuzovani duveryhodnosti - spustitelny soubor bez vyplnene
+# identifikace vypada podezreleji nez ten s ni.
+#
+# Cisla verze musi byt ctverice cisel a musi souhlasit s `o_aplikaci.VERZE`.
+
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),
+    prodvers=(1, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0),
+  ),
+  kids=[
+    StringFileInfo(
+      [
+        StringTable(
+          "040504b0",   # cestina (1029), Unicode
+          [
+            StringStruct("CompanyName", "Masarykova univerzita"),
+            StringStruct("FileDescription",
+                         "LULAN - hodnocení ekologického stavu vod"),
+            StringStruct("FileVersion", "1.0.0.0"),
+            StringStruct("InternalName", "LULAN"),
+            StringStruct("LegalCopyright",
+                         "© 2026 Masarykova univerzita, licence MIT"),
+            StringStruct("OriginalFilename", "LULAN.exe"),
+            StringStruct("ProductName", "LULAN"),
+            StringStruct("ProductVersion", "1.0.0.0"),
+          ],
+        )
+      ]
+    ),
+    VarFileInfo([VarStruct("Translation", [1029, 1200])]),
+  ],
+)

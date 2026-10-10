@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Sestavení — vzniká při běhu build skriptů
+dist/
+build/prace/
+build/vystup/
+build/verze_generovano.txt
+*.spec.bak
+
+# Výstupy srovnávacích a kontrolních skriptů v _tools/
+# Reporty se dají kdykoli vyrobit znovu z podkladů v kontrola_vysledku/.
+porovnani_metrik_*.html
+porovnani_metrik_*.csv
+_tools/eqr_raw.json
+_tools/eqr_canon.json
+_tools/regrese.json
+_tools/vypocet_lulan.csv
+
+# Dočasné soubory databáze
+*.db-journal
+*.db-wal
+*.db-shm
+*.db.zaloha_*
+*.db.pred_odlehcenim
+
+# Podklady, které se do repozitáře nedávají kvůli licencím třetích stran
+# (metodiky jsou autorská díla, kontrolní sešity obsahují provozní data)
+metodiky/
+kontrola_vysledku/
+
+# Starší verze
+_archiv/
