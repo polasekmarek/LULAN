@@ -21,10 +21,7 @@ Prostředí pro život, projekt SS06010258.*
 |---|---|
 | [DOKUMENTACE.md](DOKUMENTACE.md) | **uživatelská příručka a technická dokumentace** — začněte tady |
 | [PODPIS.md](PODPIS.md) | podpis programu a varování systémů při instalaci |
-| [UKLID.md](UKLID.md) | které soubory jsou pro běh potřeba a které ne |
-| [GIS_PROTOTYP.md](GIS_PROTOTYP.md) | odvození abiotických parametrů z GIS vrstev |
-| [OPRAVY.md](OPRAVY.md) | záznam oprav a ověření jednotlivých metodik |
-| [REVIZE_KODU.md](REVIZE_KODU.md) | poznámky z revize zdrojového kódu |
+
 
 ## Spuštění ze zdrojových kódů
 
