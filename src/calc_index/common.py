@@ -592,11 +592,8 @@ def spocitej_celedi(data, by_id):
     celedi = set()
     for taxon_id in data:
         for taxon in taxonomicka_cesta(taxon_id, by_id):
-            if taxon["LEVEL"] != "CEL":
-                continue
-            jmeno = normalizuj_nazev(taxon["NAME"], i_stadium=True)
-            if not jmeno.endswith("inae"):
-                celedi.add(jmeno)
+            if taxon["LEVEL"] == "CEL":
+                celedi.add(normalizuj_nazev(taxon["NAME"], i_stadium=True))
             break
     return len(celedi)
 
